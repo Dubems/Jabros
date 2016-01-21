@@ -22,7 +22,10 @@ Font OpenSans
 /*--------------------------------------------------
 body e altro
 --------------------------------------------------*/
-body {background:#fff; color:#333; font:15px/18px Arial, Helvetica, sans-serif; font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#343434;}
+body {
+    background: url(../media/immagini/footer.jpg) repeat;
+
+    color:#333; font:15px/18px Arial, Helvetica, sans-serif; font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#343434;}
 a {color:#38368D;}
 .osr {font-family:'OpenSansRegular';}
 .osl {font-family:'OpenSansLight';}
