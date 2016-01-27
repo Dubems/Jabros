@@ -7,7 +7,7 @@ website by websoulte
 /*--------------------------------------------------
 Font OpenSans
 --------------------------------------------------*/
-.white{background-color:white;color:black; width:45px;}
+.white{background-color:#e8e8e8;color:black; width:45px;}
 .pink{background-color:deeppink;color:black;width:45px;}
 .peach{background-color:peachpuff;color:black;width:45px;}
 .blue{background-color:blue;color:black;width:45px;}
@@ -1390,4 +1390,7 @@ section.body{
 }
 .descriptions{  font-family: 'Merriweather', serif;
     padding-left:50px;
+}
+.buttons {
+    padding-top: 5px;
 }
