@@ -145,17 +145,27 @@ header
 
 .companyName{
 
-    font-size: 30px;
+    font-size: 37px;
     font-weight:bold;
     color:#38368D;
+    font-family: 'Merriweather', serif;
+
+}
+
+#company{
+    text-align: center;
+    display: block;
+    margin-top: 12px;
+    margin-right:145px;
 }
 .company{
     font-size: 20px;
     font-weight:bold;
     color:#38368D;
-    margin-top:18px;
-
+    margin-top: 2px;
+    font-family: 'Merriweather', serif
 }
+
 
 /*--------------------------------------------------
 MENU PAESI
@@ -1245,6 +1255,10 @@ only screen and (-webkit-min-device-pixel-ratio:1.5), only screen and (-o-min-de
         width: 300px;
         margin: auto;
         padding-top: 10px;
+    }
+    #company{
+       margin-right:0;
+
     }
 
     p.company {
