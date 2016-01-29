@@ -23,7 +23,7 @@ Font OpenSans
 body e altro
 --------------------------------------------------*/
 body {
-    background: url(../media/immagini/footer.jpg) repeat;
+    /*background: url(../media/immagini/footer.jpg) repeat;*/
 /*background-color: #ffffff;*/
     color:#333; font:15px/18px Arial, Helvetica, sans-serif; font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#343434;}
 a {color:#38368D;}
@@ -1363,8 +1363,8 @@ section.body{
     height:400px;
     display:inline-block;
     background-size: contain;
-    background-image: url('../media/immagini/water%20heater.jpg');
-    background-repeat: no-repeat;
+    /*background-image: url('../media/immagini/water%20heater.jpg');*/
+    /*background-repeat: no-repeat;*/
     vertical-align:top;
     margin-top:30px;
 
@@ -1381,16 +1381,23 @@ section.body{
     border-radius: 5px 20px 5px;
     vertical-align: top;
 }
-.product-desc{
+.product-desc {
     text-align: center;
     font-family: 'Merriweather', serif;
     text-decoration: underline;
-
-
+    padding: 20px;
+    font-size: 22px;
 }
-.descriptions{  font-family: 'Merriweather', serif;
-    padding-left:50px;
+.descriptions{
+    font-family: 'Merriweather', serif;
+    padding-left: 30px;
+    font-size: large;
+    line-height: 1.5;
 }
 .buttons {
     padding-top: 5px;
+}
+
+.visible-products a{
+    font-weight:bolder;
 }
