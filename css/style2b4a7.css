@@ -1317,6 +1317,9 @@ only screen and (-webkit-min-device-pixel-ratio:1.5), only screen and (-o-min-de
 
 
     }
+    .picture img{
+        width:100% !important;
+    }
     .description{
         width:100% !important;
         margin:10px 5px !important;
