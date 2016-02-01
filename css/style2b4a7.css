@@ -104,7 +104,7 @@ header
 .menu_servizio ul li.primo_elemento { background: none; margin: 0 !important; padding: 0 !important; }
 .menu_servizio ul li a {color:#616262; padding-bottom:0; border:none; background:none; text-transform:capitalize;}
 .menu_servizio ul li.primo_elemento a {}
-.cont_menu_princ {height:36px; background-color:#dcdcdc; z-index:1100; width:960px;}
+.cont_menu_princ {height:36px; background-color:#dcdcdc; z-index:1100;}
 .cont_menu_princ ul { list-style:none;}
 .cont_menu_princ ul li { list-style:none;}
 .menu_princ {height:36px;}
