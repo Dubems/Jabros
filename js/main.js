@@ -8,6 +8,5 @@
 
      });
 
-
-
+   document.getElementById('phone').innerHTML= 'Phone Num: 07031244392'
 });

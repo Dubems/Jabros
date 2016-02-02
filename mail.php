@@ -1,5 +1,6 @@
 <?php
- function sendMail(){
+ function sendMail()
+ {
      if (!empty($_POST['email']) && !empty($_POST['name']) && !empty($_POST['message'])) {
          $email = $_POST['email'];
          $message = $_POST['message'];
@@ -9,19 +10,8 @@
          $subject = 'jabros.com.ng';
 
          mail($to, $subject, $message, $header);
-         if (mail($to, $subject, $message, $header)) {
-
-
-       redirect();
-             return 'pass';
+         echo "your message was sent successfully!   We would get back to you soon..";
          }
      }
-     else{
-         echo" there is an error";
 
-     }
- }
 sendMail();
- function redirect(){
-      header('Location:/Contacts.html');
- }
