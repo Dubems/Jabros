@@ -1146,8 +1146,9 @@ SEARCH RESULTS
     margin-top:5px;
     margin-left: 200px;
     margin-right: 250px;
-    height: 900px;
+    height: 400px;
     margin-bottom: 7px;
+    box-shadow: 1px 2px 9px 1px rgba(0,0,0,0.06);
 }
 
 .prefooter{
@@ -1156,7 +1157,7 @@ SEARCH RESULTS
 /*--------------------------------------------------
 Footer
 --------------------------------------------------*/
-.footer { width:960px;
+.footer {
     background:url(../media/immagini/footer.jpg)}
 .footer .w960 {/*min-height:305px;*/}
 .footer_mappa { position: relative; z-index: 1; }
@@ -1249,6 +1250,10 @@ only screen and (-webkit-min-device-pixel-ratio:1.5), only screen and (-o-min-de
         margin: 0;
     }
 
+
+    footer{
+        width:100% !important;
+    }
     .companyName {
         font-size: 16px;
         display: block;
@@ -1331,6 +1336,10 @@ only screen and (-webkit-min-device-pixel-ratio:1.5), only screen and (-o-min-de
         height:auto !important;
 
     }
+    /*footer{*/
+        /*width:100% !important;*/
+        /**/
+    /*}*/
 
 
 }
@@ -1404,4 +1413,15 @@ section.body{
 
 .visible-products a{
     font-weight:bolder;
+}
+
+.about_us p{
+line-height: 1.5;font-size: 16px;padding: 9px 15px;
+    font-family: 'Merriweather',serif;
+}
+
+ul.about li {
+    font-size: 16px;
+    padding: 7px;
+    font-family: 'Merriweather',serif;
 }
