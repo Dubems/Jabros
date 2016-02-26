@@ -1,19 +1,19 @@
 function white(){
-    document["imgName"].src="iron/enamel bath ion white.jpg";
+    document["imgName"].src="img/icons/enamel-bath-white.jpg";
     //document.getElementById("myLink").href = "white.php";
 }
 function blue(){
-    document["imgName"].src="iron/blue bathtub.jpg";
+    document["imgName"].src="img/icons/enamael-bath-blue.jpg";
     //document.getElementById("myLink").href = "blueBathtub.html";
 }
 
 function pink(){
-    document["imgName"].src="iron/enamel bath iron pink.jpg";
+    document["imgName"].src="img/icons/enamel-bath-purple.jpg";
     //document.getElementById("myLink").href = "pink.php";
 }
 
 function peach(){
-    document["imgName"].src="iron/peach bathtub.jpg";
+    document["imgName"].src="img/icons/enamel-peach.jpg";
     //document.getElementById("myLink").href = "peach.php";
 
 }

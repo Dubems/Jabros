@@ -21,3 +21,25 @@ function peach(){
 
 }
 
+
+
+
+function white1(){
+    document["imgName1"].src="img/icons/shower-tray-white.jpg";
+    //document.getElementById("myLink").href = "white.php";
+}
+function blue1(){
+    document["imgName1"].src="img/icons/shower-tray-blue.jpg";
+    //document.getElementById("myLink").href = "blueBathtub.html";
+}
+
+function pink1(){
+    document["imgName1"].src="img/icons/shower-tray-purple.jpg";
+    //document.getElementById("myLink").href = "pink.php";
+}
+
+function peach1(){
+    document["imgName1"].src="media/immagini/shower-tray-peach.jpg";
+    //document.getElementById("myLink").href = "peach.php";
+
+}

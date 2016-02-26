@@ -1,3 +1,4 @@
+
 <?php
  function sendMail()
  {
@@ -15,3 +16,4 @@
      }
 
 sendMail();
+

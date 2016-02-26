@@ -75,7 +75,7 @@ ARABO
 header
 --------------------------------------------------*/
 .head { position: relative; z-index: 1; padding: 10px 0; }
-.logo { float: left; background: url(../imgs/main_logo.png) no-repeat; width: 95px; height: 90px; text-indent: -9999px; display: inline-block; margin-right: 140px; }
+.logo { float: left; background: url(../imgs/main_logo.png) no-repeat; width: 95px; height: 90px; text-indent: -9999px; display: inline-block; margin-right: 80px; }
 .logo a {display:block; width:220px; height:54px;}
 .descriptor { float: left; width: 700px; }
 
@@ -143,14 +143,14 @@ header
     list-style-type:none;
 }
 
-.companyName{
 
-    font-size: 37px;
-    font-weight:bold;
-    color:#38368D;
+
+.companyName {
+    font-size: 40px;
+    color: #38368D;
     font-family: 'Merriweather', serif;
-
 }
+
 
 #company{
     text-align: center;
@@ -158,12 +158,15 @@ header
     margin-top: 12px;
     margin-right:145px;
 }
-.company{
-    font-size: 20px;
-    font-weight:bold;
-    color:#38368D;
-    margin-top: 2px;
-    font-family: 'Merriweather', serif
+
+.company {
+    font-size:26px;
+    color: #38368D;
+    margin-top: 15px;
+    font-family: 'Merriweather', serif;
+}
+
+
 }
 
 
