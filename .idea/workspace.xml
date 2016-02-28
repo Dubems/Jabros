@@ -22,21 +22,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="kitchen_sink.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="kitchen_sink.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/kitchen_sink.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.76254183">
+            <state vertical-scroll-proportion="-18.24">
               <caret line="173" column="50" selection-start-line="173" selection-start-column="50" selection-end-line="173" selection-end-column="50" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sigle_bowl.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kitchen-sink/sigle_bowl.html">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="98" column="46" selection-start-line="98" selection-start-column="46" selection-end-line="98" selection-end-column="46" />
+            <state vertical-scroll-proportion="0.93645483">
+              <caret line="163" column="26" selection-start-line="163" selection-start-column="26" selection-end-line="163" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -139,7 +139,6 @@
         <option value="$PROJECT_DIR$/shower-cubicle/square-shower-cubicle.html" />
         <option value="$PROJECT_DIR$/js/main.js" />
         <option value="$PROJECT_DIR$/mail.php" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/enamel-bathtub/enamel-plastic.html" />
         <option value="$PROJECT_DIR$/kitchen-sink/cabinet_sink.html" />
         <option value="$PROJECT_DIR$/kitchen-sink/double_bowl_single_tray.html" />
@@ -185,6 +184,7 @@
         <option value="$PROJECT_DIR$/shower_tray.html" />
         <option value="$PROJECT_DIR$/fibre_bathtub.html" />
         <option value="$PROJECT_DIR$/kitchen_sink.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -632,13 +632,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.259259">
-          <caret line="61" column="67" selection-start-line="61" selection-start-column="67" selection-end-line="61" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/kitchen-sink/double_bowl_single_tray.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -813,8 +806,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/kitchen_sink.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.76254183">
+        <state vertical-scroll-proportion="-18.24">
           <caret line="173" column="50" selection-start-line="173" selection-start-column="50" selection-end-line="173" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.93645483">
+          <caret line="163" column="26" selection-start-line="163" selection-start-column="26" selection-end-line="163" selection-end-column="26" />
           <folding />
         </state>
       </provider>
