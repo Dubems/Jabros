@@ -1244,6 +1244,9 @@ only screen and (-webkit-min-device-pixel-ratio:1.5), only screen and (-o-min-de
     .w960{
         width: 100% !important;
     }
+    p.footer{
+        width:100%;
+    }
     .description img{
         width:100% !important;
     }
