@@ -12,6 +12,7 @@
 
          mail($to, $subject, $message, $header);
          echo "your message was sent successfully!   We would get back to you soon..";
+
          }
      }
 
