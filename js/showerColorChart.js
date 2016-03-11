@@ -3,21 +3,21 @@
  */
 function white(){
     document["imgName"].src="media/immagini/shower tray 3.jpg";
-    //document.getElementById("myLink").href = "white.php";
+    document.getElementById("myLink").href = "shower-tray/shower-tray.html";
 }
 function blue(){
     document["imgName"].src="media/immagini/shower=tray-blue.jpg";
-    //document.getElementById("myLink").href = "blueBathtub.html";
+    document.getElementById("myLink").href = "shower-tray/shower-tray-blue.html";
 }
 
 function pink(){
     document["imgName"].src="media/immagini/shower-tray-pink.jpg";
-    //document.getElementById("myLink").href = "pink.php";
+    document.getElementById("myLink").href = "shower-tray/shower-tray-pink.html";
 }
 
 function peach(){
     document["imgName"].src="media/immagini/shower-tray-peach.jpg";
-    //document.getElementById("myLink").href = "peach.php";
+    document.getElementById("myLink").href = "shower-tray/shower-tray-peach.html";
 
 }
 
@@ -26,20 +26,20 @@ function peach(){
 
 function white1(){
     document["imgName1"].src="img/icons/shower-tray-white.jpg";
-    //document.getElementById("myLink").href = "white.php";
+    document.getElementById("myLink1").href = "shower-tray/fiber-shower-tray.html";
 }
 function blue1(){
-    document["imgName1"].src="img/icons/shower-tray-blue.jpg";
-    //document.getElementById("myLink").href = "blueBathtub.html";
+    document["imgName1"].src="media/immagini/Fibreblue-shower.jpg";
+    document.getElementById("myLink1").href = "shower-tray/fiber-shower-tray-blue.html";
 }
 
 function pink1(){
     document["imgName1"].src="img/icons/shower-tray-purple.jpg";
-    //document.getElementById("myLink").href = "pink.php";
+    document.getElementById("myLink1").href = "shower-tray/fiber-shower-tray-pink.html";
 }
 
 function peach1(){
-    document["imgName1"].src="media/immagini/shower-tray-peach.jpg";
-    //document.getElementById("myLink").href = "peach.php";
+    document["imgName1"].src="media/immagini/peach-fibre-shower.JPG";
+    document.getElementById("myLink1").href = "shower-tray/fiber-shower-tray-peach.html";
 
 }

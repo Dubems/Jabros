@@ -146,9 +146,10 @@ header
 
 
 .companyName {
-    font-size: 40px;
+    font-size: 38px;
     color: #38368D;
     font-family: 'Merriweather', serif;
+    font-weight: bold;
 }
 
 
@@ -373,7 +374,9 @@ PRODOTTI EVIDENZA IN HOMEPAGE
 
 .preview_cat_home:last-child { margin: 0; }
 .preview_cat_home a { display: block; }
-.preview_cat_home img { border: 1px solid #c9c9c9; height: 130px; max-width: 143px; padding: 10px; /*-moz-transition: height 0.3s ease, padding 0.3s ease; -o-transition: height 0.3s ease, padding 0.3s ease; -webkit-transition: height 0.3s ease, padding 0.3s ease; transition: height 0.3s ease, padding 0.3s ease;*/ }
+
+/*changed max-width to width(ugokafor)*/
+.preview_cat_home img { border: 1px solid #c9c9c9; height: 130px;width: 143px; padding: 10px; /*-moz-transition: height 0.3s ease, padding 0.3s ease; -o-transition: height 0.3s ease, padding 0.3s ease; -webkit-transition: height 0.3s ease, padding 0.3s ease; transition: height 0.3s ease, padding 0.3s ease;*/ }
 /*.preview_cat_home img:hover { height: 140px; padding: 5px; -moz-transition: height 0.3s ease, padding 0.3s ease; -o-transition: height 0.3s ease, padding 0.3s ease; -webkit-transition: height 0.3s ease, padding 0.3s ease; transition: height 0.3s ease, padding 0.3s ease; }*/
 .preview_cat_home .descrizione { color: #5a5a5a; font-size: 11px; line-height: 15px; }
 .preview_cat_home .descrizione span { display: block; color: #38368D; }
@@ -1149,7 +1152,7 @@ SEARCH RESULTS
     margin-top:5px;
     margin-left: 200px;
     margin-right: 250px;
-    height: 400px;
+    height:500px;
     margin-bottom: 7px;
     box-shadow: 1px 2px 9px 1px rgba(0,0,0,0.06);
 }
@@ -1264,7 +1267,7 @@ only screen and (-webkit-min-device-pixel-ratio:1.5), only screen and (-o-min-de
         width:100% !important;
     }
     .companyName {
-        font-size: 16px;
+        font-size: 15px;
         display: block;
         text-align: center;
         /*width: 300px;*/
