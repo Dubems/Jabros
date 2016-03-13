@@ -22,26 +22,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="fiber-shower-tray-blue.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shower-tray/fiber-shower-tray-blue.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="46" column="76" selection-start-line="46" selection-start-column="76" selection-end-line="46" selection-end-column="76" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="fiber-shower-tray-peach.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shower-tray/fiber-shower-tray-peach.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="46" column="76" selection-start-line="46" selection-start-column="76" selection-end-line="46" selection-end-column="76" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="fiber-shower-tray-pink.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/shower-tray/fiber-shower-tray-pink.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -92,11 +72,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-14.44">
-              <caret line="81" column="21" selection-start-line="81" selection-start-column="21" selection-end-line="81" selection-end-column="21" />
+            <state vertical-scroll-proportion="0.47658864">
+              <caret line="77" column="0" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -112,11 +92,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style2b4a7.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="style2b4a7.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style2b4a7.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.55536914">
-              <caret line="1276" column="20" selection-start-line="1276" selection-start-column="20" selection-end-line="1276" selection-end-column="20" />
+            <state vertical-scroll-proportion="-6.172414">
+              <caret line="1268" column="0" selection-start-line="1268" selection-start-column="0" selection-end-line="1268" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="water_heater.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/water_heater.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-9.88">
+              <caret line="174" column="52" selection-start-line="174" selection-start-column="52" selection-end-line="174" selection-end-column="52" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="water_heater_small.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/water_heater_small.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-18.24">
+              <caret line="100" column="45" selection-start-line="100" selection-start-column="45" selection-end-line="100" selection-end-column="45" />
               <folding />
             </state>
           </provider>
@@ -141,9 +141,7 @@
         <option value="$PROJECT_DIR$/rain-gutter/tee.html" />
         <option value="$PROJECT_DIR$/Contacts.html" />
         <option value="$PROJECT_DIR$/rain_gutter_system.html" />
-        <option value="$PROJECT_DIR$/water_heater.html" />
         <option value="$PROJECT_DIR$/water_heater_medium.html" />
-        <option value="$PROJECT_DIR$/water_heater_small.html" />
         <option value="$PROJECT_DIR$/panel_bathtub.html" />
         <option value="$PROJECT_DIR$/panel-bath/with-seater.html" />
         <option value="$PROJECT_DIR$/panel-bath/with-headrest.html" />
@@ -185,6 +183,8 @@
         <option value="$PROJECT_DIR$/shower-tray/shower-tray-peach.html" />
         <option value="$PROJECT_DIR$/shower-tray/shower-tray-pink.html" />
         <option value="$PROJECT_DIR$/css/style2b4a7.css" />
+        <option value="$PROJECT_DIR$/water_heater_small.html" />
+        <option value="$PROJECT_DIR$/water_heater.html" />
       </list>
     </option>
   </component>
@@ -402,13 +402,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/water_heater_small.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.92">
-          <caret line="50" column="76" selection-start-line="50" selection-start-column="76" selection-end-line="50" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/kitchen-sink/double_bowl_single_tray.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -614,13 +607,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/water_heater.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="165" column="4" selection-start-line="165" selection-start-column="4" selection-end-line="165" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/shower_cubicle.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-19.0">
@@ -741,18 +727,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/css/style2b4a7.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-14.44">
-          <caret line="81" column="21" selection-start-line="81" selection-start-column="21" selection-end-line="81" selection-end-column="21" />
+        <state vertical-scroll-proportion="-6.172414">
+          <caret line="1268" column="0" selection-start-line="1268" selection-start-column="0" selection-end-line="1268" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style2b4a7.css">
+    <entry file="file://$PROJECT_DIR$/water_heater_small.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.55536914">
-          <caret line="1276" column="20" selection-start-line="1276" selection-start-column="20" selection-end-line="1276" selection-end-column="20" />
+        <state vertical-scroll-proportion="-18.24">
+          <caret line="100" column="45" selection-start-line="100" selection-start-column="45" selection-end-line="100" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/water_heater.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.88">
+          <caret line="174" column="52" selection-start-line="174" selection-start-column="52" selection-end-line="174" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.47658864">
+          <caret line="77" column="0" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
           <folding />
         </state>
       </provider>
